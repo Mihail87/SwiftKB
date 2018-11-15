@@ -1,2 +1,0 @@
-# SwiftKB
-Swift Knowledge Base
