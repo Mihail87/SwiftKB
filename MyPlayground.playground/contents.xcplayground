@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='rendered' executeOnSourceChanges='false'>
+    <pages>
+        <page name='Dev KB'/>
+        <page name='Collections'/>
+        <page name='Strings'/>
+        <page name='Arrays'/>
+        <page name='Dictionary'/>
+        <page name='Date'/>
+        <page name='Error Handling'/>
+        <page name='Utilities'/>
+        <page name='_Testing_'/>
+        <page name='UITableViewCell'/>
+        <page name='UITableView'/>
+        <page name='UIRefreshControl'/>
+        <page name='Error1'/>
+        <page name='Error2'/>
+        <page name='Error3'/>
+        <page name='UINavigationController'/>
+        <page name='UITextFieldDelegate'/>
+        <page name='Delegates'/>
+    </pages>
+</playground>
